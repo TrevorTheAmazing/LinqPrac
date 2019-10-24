@@ -1,0 +1,6 @@
+C:\Users\trevo\Dropbox\dcc\30 - linq\LinqPrac\LinqPrac\bin\Debug\LinqPrac.exe.config
+C:\Users\trevo\Dropbox\dcc\30 - linq\LinqPrac\LinqPrac\bin\Debug\LinqPrac.exe
+C:\Users\trevo\Dropbox\dcc\30 - linq\LinqPrac\LinqPrac\bin\Debug\LinqPrac.pdb
+C:\Users\trevo\Dropbox\dcc\30 - linq\LinqPrac\LinqPrac\obj\Debug\LinqPrac.csprojAssemblyReference.cache
+C:\Users\trevo\Dropbox\dcc\30 - linq\LinqPrac\LinqPrac\obj\Debug\LinqPrac.exe
+C:\Users\trevo\Dropbox\dcc\30 - linq\LinqPrac\LinqPrac\obj\Debug\LinqPrac.pdb
